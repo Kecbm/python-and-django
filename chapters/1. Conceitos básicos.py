@@ -121,3 +121,20 @@ print("Name\tAge\tCity")
 ### \r - Carriage return (moves cursor to beginning of line)
 print("\n=== \\r EXAMPLES (Carriage Return) ===")
 print("Loading...\rComplete!")  # "Loading..." gets overwritten
+
+## Exercises
+
+### 1. Christmas tree in CII Art. ASCII
+print("           ⭐           ")
+print("          🍃🍃          ")
+print("         🍃🎀🍃        ")
+print("        🍃🍃🍃🍃        ")
+print("       🎁🍃🎁🍃🎁       ")
+print("      🍃🍃🍃🍃🍃🍃      ")
+print("     🍃❄️🍃❄️🍃❄️🍃❄️🍃     ")
+print("    🍃🍃🍃🍃🍃🍃🍃🍃    ")
+print("   🔔🍃🔔🍃🔔🍃🔔🍃🔔   ")
+print("  🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃  ")
+print(" 🍃⛄🍃⛄🍃⛄🍃⛄🍃⛄🍃 ")
+print("🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃")
+ 
