@@ -107,3 +107,17 @@ def multiply(number1, number2):
 
 result1 = multiply(5, 3)
 print(f"5 × 3 = {result1}")
+
+## ESCAPE CHARACTERS EXAMPLES
+
+### \n - New line (line break)
+print("=== \\n EXAMPLES (New Line) ===")
+print("First line\nSecond line\nThird line")
+
+### \t - Tab (horizontal spacing)
+print("\n=== \\t EXAMPLES (Tab) ===")
+print("Name\tAge\tCity")
+
+### \r - Carriage return (moves cursor to beginning of line)
+print("\n=== \\r EXAMPLES (Carriage Return) ===")
+print("Loading...\rComplete!")  # "Loading..." gets overwritten
