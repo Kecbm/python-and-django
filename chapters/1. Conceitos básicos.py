@@ -148,3 +148,6 @@ brl_amount = 100
 exchange_rate = 5.0
 usd_amount = convert_brl_to_usd(brl_amount, exchange_rate)
 print(f"{brl_amount} BRL is equal to {usd_amount:.2f} USD")
+
+## 3. String repeat
+print("I need study Python 🐍\n" * 10)
